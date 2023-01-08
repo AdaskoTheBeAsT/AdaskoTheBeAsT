@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adaskothebeast&show_icons=true&locale=en" alt="adaskothebeast" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adaskothebeast&" alt="adaskothebeast" /></p>
+
+<p><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" /></p>
