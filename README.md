@@ -26,4 +26,4 @@
 
 <p><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adaskothebeast&badges=3&show-avatar=false&style=--header-bg-color:%23fff;--header-text-color:%23000;--border-radius:10px" /></p>
 
-<p><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=adaskothebeast&max-items=10&logos=true&style=--item-bg-color:%23f00;--item-border-radius:10px" /></p>
+<p><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=adaskothebeast&max-items=10&logos=true&style=--item-bg-color:%23fff;--item-border-radius:10px" /></p>
